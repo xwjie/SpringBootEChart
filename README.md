@@ -1,5 +1,6 @@
 # SpringBootEChart
-百度echart3的柱图和饼图的简单封装
+百度echart3的柱图和饼图的简单封装。
+以springboot运行工程，打开 http://127.0.0.1:9002/ 访问
 
 ## 例子
 java
